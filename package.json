@@ -19,6 +19,10 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
+    "compile-sass": "sass --watch sass/main.scss:css/style.css",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "sass": "^1.87.0"
   }
 }
