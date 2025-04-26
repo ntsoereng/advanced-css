@@ -1,0 +1,24 @@
+{
+  "name": "natours-project",
+  "version": "1.0.0",
+  "description": "natours project in the advanced css tutorial by jonas schmedtmann on udemy",
+  "keywords": [
+    "css",
+    "sass"
+  ],
+  "homepage": "https://github.com/ntsoereng/advanced-css#readme",
+  "bugs": {
+    "url": "https://github.com/ntsoereng/advanced-css/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntsoereng/advanced-css.git"
+  },
+  "license": "ISC",
+  "author": "ntsoereng",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
